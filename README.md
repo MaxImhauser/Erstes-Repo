@@ -50,3 +50,7 @@ git add > Änderungen stagen
 git commit -m "Name der Änderung" > Änderung commiten inc. Name der Änderung
 
 git push > hochladen
+
+git pull > runterladen + einbauen
+
+git fetch > runterladen
