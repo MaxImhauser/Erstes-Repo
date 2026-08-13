@@ -12,10 +12,15 @@ git-tools:     git-scm.com
 
 
 Gitignore Infos:
+
 gitignore:  gitignore.io
+
 * zum ignorieren
+
 ! als Ausnahme
+
 #als Kommentar 
+
 
 Wildcards let you match many files or folders at once:
 
