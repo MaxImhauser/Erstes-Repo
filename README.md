@@ -5,17 +5,21 @@
 **Fett**
 *Italics*
 
+<br>
+
 Lizenz finden: choosealicense.com
 
 git-tools:     git-scm.com  
 
+
+<p>&nbsp;</p>
 
 
 Gitignore Infos:
 
 gitignore:  gitignore.io
 
-* zum ignorieren
+*zum ignorieren
 
 ! als Ausnahme
 
